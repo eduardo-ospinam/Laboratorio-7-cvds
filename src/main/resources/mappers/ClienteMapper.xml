@@ -38,8 +38,7 @@
       <result property='direccion' column='direccion'/>  
       <result property='email' column='email'/>  
       <result property='vetado' column='vetado'/>  
-      <!--<association property="vetado" javaType="DetalleDos"></association>      
-      <collection property='rentados' ofType='DetalleUno'></collection> -->
+      <collection property="rentados" ofType="ItemRentado"></association>      
     </resultMap>
           	
 </mapper>
