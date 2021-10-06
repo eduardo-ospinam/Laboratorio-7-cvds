@@ -16,3 +16,18 @@
 ![](https://i.postimg.cc/qvpXkZ2S/lab77.jpg)
 
 ### Parte 2:
+
+![](https://i.postimg.cc/85jJ3Hv8/lab78.jpg)
+![](https://i.postimg.cc/HnMJWk3B/lab79.jpg)
+![](https://i.postimg.cc/c1ttBFZw/lab80.jpg)
+![](https://i.postimg.cc/CLyBPbLt/lab81.jpg)
+![](https://i.postimg.cc/284qP315/lab82.jpg)
+![](https://i.postimg.cc/y8sJBBRy/lab83.jpg)
+![](https://i.postimg.cc/Cx7RxtHT/lab85.jpg)
+![](https://i.postimg.cc/yNNkgPvJ/lab86.jpg)
+![](https://i.postimg.cc/DZJ05zVn/lab87.jpg)
+![](https://i.postimg.cc/V6x6hc1M/lab88.jpg)
+![](https://i.postimg.cc/wMDv8bTr/lab89.jpg)
+![](https://i.postimg.cc/SQ9jMj7G/lab90.jpg)
+![](https://i.postimg.cc/fThyjZ8Q/lab91.jpg)
+
