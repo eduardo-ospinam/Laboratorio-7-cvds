@@ -1,7 +1,6 @@
 package edu.eci.cvds.sampleprj.dao.mybatis.mappers;
 
 
-import java.util.Date;
 import java.util.List;
 import org.apache.ibatis.annotations.Param;
 
@@ -18,7 +17,6 @@ public interface ItemMapper {
     
     public Item consultarItem(int id);
     
-    public void insertarItem(Item it);
-
+    public void insertarItem(Item item);
         
 }
